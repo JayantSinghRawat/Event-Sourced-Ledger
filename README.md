@@ -1,4 +1,4 @@
-# 🏦 Banking Transaction System & Event-Sourced Ledger
+# 🏦 Event-Sourced Ledger - Double-Entry Banking Core
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-v18%2B-339933?logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-5.x-000000?logo=express)](https://expressjs.com/)
